@@ -1,0 +1,19 @@
+{
+  "name": "blowfish-cli",
+  "version": "1.0.0",
+  "description": "CLI for encrypting and decrypting blowfish cipher",
+  "main": "index.js",
+  "bin": {
+    "blowfish": "./bin/blowfish"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Siekierski",
+  "license": "ISC",
+  "dependencies": {
+    "blowfish-security-lib": "^1.0.1",
+    "clipboardy": "^2.1.0",
+    "commander": "^2.20.0"
+  }
+}
