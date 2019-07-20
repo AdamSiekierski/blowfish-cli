@@ -1,5 +1,10 @@
 # Blowfish CLI
 
+### Installation
+```sh
+npm install blowfish-cli -g
+```
+
 ### Usage
 - Encrypt some text:
 ```sh

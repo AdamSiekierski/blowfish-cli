@@ -1,6 +1,6 @@
 {
   "name": "blowfish-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "CLI for encrypting and decrypting blowfish cipher",
   "main": "index.js",
   "bin": {
